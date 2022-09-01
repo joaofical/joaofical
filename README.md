@@ -4,6 +4,5 @@
 - :ok_hand: fininho
 - :heart: How to reach me ...email, even though I don't use it as much
 
-<!---
-
---->
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
